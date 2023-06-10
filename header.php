@@ -26,6 +26,7 @@
 
 <body>
     <!-- Page Preloder -->
+    
     <div id="preloder">
         <div class="loader"></div>
     </div>
@@ -38,7 +39,7 @@
                 <div class="row">
                     <div class="col-lg-8">
                         <ul class="header__top__left">
-                            <li>APLIKASI TROUBLESHOOTING ANBK MODA SEMI ONLINE</li>
+                            <li>APLIKASI MENTUKAN INSTALLASI JARINGAN INTERNET</li>
                         </ul>
                     </div>
                     <div class="col-lg-4">

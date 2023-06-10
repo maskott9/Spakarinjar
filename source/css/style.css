@@ -163,15 +163,15 @@ ol {
 	font-weight: 500;
 	padding: 12px 30px 10px;
 	text-transform: uppercase;
-	color: #111111;
+	color: #f80317;
 	text-transform: uppercase;
 	letter-spacing: 2px;
-	border: 2px solid #13a2b7;
+	border: 2px solid #e70a0a;
 	border-radius: 5px;
 }
 
 .primary-btn.normal-btn {
-	background: #13a2b7;
+	background: #f80317;
 	color: #ffffff;
 	font-weight: 600;
 }
@@ -179,7 +179,7 @@ ol {
 .site-btn {
 	font-size: 15px;
 	color: #ffffff;
-	background: #13a2b7;
+	background: #f80317;
 	font-weight: 600;
 	border: none;
 	border-radius: 5px;
@@ -262,7 +262,7 @@ ol {
 }
 
 .header__top {
-	background: #0c5d69;
+	background: #0342f0;
 }
 
 .header__top__left {
